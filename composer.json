@@ -1,0 +1,15 @@
+{
+    "name": "vendor/formizin1",
+    "description": "excel",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.24"
+    },
+    "config": {
+        "platform": {
+            "php": "8.20"
+        }
+    }
+}
